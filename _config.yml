@@ -1,5 +1,5 @@
-name: 肖航课题组  Xiao Research Group
-url: https://xiaohang007.github.io/
+name: 黄培轩简介  Huang brief introduction
+url: https://peixuanhuang.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -12,13 +12,13 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: 教师 Faculty
+    name: 学生
   - key: grad
-    name: 研究生 Graduate Students
+    name: 专业
   - key: ugrad
-    name: 本科生 Undergraduate Students
+    name: 班级
   - key: collab
-    name: 合作者 Collaborators
+    name: 小组
 
 
 # Number of news stories on the front page.
@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 科研项目 Research
+  - title: 参加项目
     link: /research.html
-  - title: 论文 Publications
+  - title: 获取奖项
     link: /publications.html
