@@ -1,5 +1,5 @@
 ---
-title: Guangdong Construction Polytechnic: Construction Engineering Technology
+title: 广东建设职业技术学院
 
 notitle: false
 
