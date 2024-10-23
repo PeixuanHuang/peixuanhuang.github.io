@@ -9,7 +9,7 @@ description: |
 
 
 layout: project
-image: /Zhanjiang.png
+image: /img/projects/Zhanjiang.png
 last-updated: 2024-08-26
 
 ---
