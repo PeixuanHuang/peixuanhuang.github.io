@@ -1,24 +1,19 @@
 ---
-title: 理论预测新型二维材料 De novo discovery of novel 2D materials 
+title: 香港岭南大学 2024.09-2025.09 
 
 notitle: false
 
 description: |
 
-people:
-  - xiaoyang
-  - chenyan
-  - profx
-  - chenxi
+
 
 layout: project
-image: /img/projects/2d.png
-last-updated: 2020-01-22
+image: /img/projects/Hklingnanlogo.png
+last-updated: 2024-07-22
 ---
 
-## 简介 Introduction
+## 教育经历 Educational Experience
 
-我们首次理论预测由氮与硫组成的二维材料S3N2以及由磷和硫组成的二维材料P2S3，填补了该领域的空白。
-自2004年发现单层石墨烯以来，不断有新的具有优异性质的二维材料被实验合成以及理论预测出来。由于其独特的量子约束特性，二维材料往往具有和块体材料不同的物理化学性质，具有广泛的应用前景，备受学界以及工业界关注。
-通过遗传算法驱动的量子化学计算，我们首次理论预测由氮与硫组成的二维单层材料S3N2。通过理论计算得到了该材料的声子谱，验证了该材料的动力学稳定性。第一性原理分子动力学计算表明该材料在高于常温的环境中也能保持稳定。第一性原理计算表明该材料具有宽直接带隙（3.92 eV），并且具有较小的电子等效质量以及各向异性光学响应。该二维材料还可以形成电学性质可调的纳米管及纳米带结构。优异的电子学以及光电子学性质预示着该材料在二维电子学及光电子学器件方面具有潜在应用。
+主修课程：电子计算机系统与编程基础、产品和流程设计与实施、控制系统与人工智能应用、数据分析与决策原理、科 技人才的领导力与人际交往能力等。
+Major courses: Fundamentals of Electronic Computer Systems and Programming, Product and Process Design and Implementation, Control Systems and Artificial Intelligence Applications, Data Analysis and Decision Principles, Leadership and Interpersonal Communication Skills for Technological Talents, etc.
 
