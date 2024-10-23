@@ -1,5 +1,5 @@
 ---
-title: 广东建设职业技术学院
+title: 广东建设职业技术学院 2019.09-2022.06
 
 notitle: false
 
@@ -15,4 +15,4 @@ last-updated: 2024-09-22
 
 ## 简介 Introduction
 
-2019.09-2022.06 Major courses: Construction Engineering Measurement and Pricing, Construction Engineering Surveying, Building Mechanics, Building Drawing and Construction, Engineering Economics, etc.
+Major courses: Construction Engineering Measurement and Pricing, Construction Engineering Surveying, Building Mechanics, Building Drawing and Construction, Engineering Economics, etc.
