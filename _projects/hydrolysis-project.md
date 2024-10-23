@@ -1,25 +1,19 @@
 ---
-title: 反常水解反应 Abnormal hydrolysis of ions
+title: 湛江市霞山区友谊街道办事处 实习生 2023.01-2023.02
 
 notitle: false
 
 description: |
-  纳米水团簇中的离子水解反应研究 Hydrolysis of ions in nanoscale water clusters: a mechanism study
+  
 
-people:
-  - han
-  - xiaoyang
-  - yayun
-  - juzheng
-  - profx
-  - chenxi
 
 layout: project
-image: /img/projects/hydrolysis.png
-last-updated: 2020-01-23
+image: /img/projects/ZJ.png
+last-updated: 2022-01-23
 ---
 
-## 简介 Introduction
+## 实践经历 Practical Experience
 
-我们通过结合全局结构搜索与量子化学计算，对不同水分子数量情况下碳酸根在纳米水团簇中水解的反应路径进行系统研究。发现水分子数量从1增加到6，碳酸根水解的能垒显著降低。该研究揭示了水分子对碳酸根在纳米水团簇中水解的催化效应。为设计高效率的CO2空气吸附剂提供了理论依据。
+积极主动的做好文秘工作，整理文件，上传下达相关文件内容。为街道民众服务，到宝满村、北月村、调罗村、石头村 等多个村落帮助超过30名村民完成个体户营业执照的申办流程，得到领导及村民的一致认可。
+Proactively carry out secretarial work, organize documents, and upload and distribute relevant document content. To serve the residents of the street, we assisted over 30 villagers in completing the application process for individual business licenses in multiple villages such as Baoman Village, Beiyue Village, Tiaoluo Village, and Shitou Village, and received unanimous recognition from leaders and villagers.
 
