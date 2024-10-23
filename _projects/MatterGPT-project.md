@@ -1,5 +1,5 @@
 ---
-title: Guangdong Construction Polytechnic: Construction Engineering Technology 
+title: 理论预测新型二维材料 De novo discovery of novel 2D materials 
 
 notitle: false
 
@@ -12,7 +12,7 @@ people:
   - chenxi
 
 layout: project
-image: /img/projects/Guangdong Construction Polytechnic.png
+image: /img/projects/2d.png
 last-updated: 2020-01-22
 ---
 
