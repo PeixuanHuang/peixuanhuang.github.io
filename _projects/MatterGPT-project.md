@@ -1,5 +1,5 @@
 ---
-title: 理论预测新型二维材料 De novo discovery of novel 2D materials 
+title: 理论预测新型二维材料  Guangdong Construction Polytechnic: Construction Engineering Technology
 
 notitle: false
 
