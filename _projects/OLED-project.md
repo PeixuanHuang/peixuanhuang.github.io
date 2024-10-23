@@ -10,7 +10,7 @@ description: |
 
 layout: project
 image: /Zhanjiang.png
-last-updated: 2024-01-26
+last-updated: 2024-08-26
 link: https://www.zjkju.edu.cn
 ---
 
