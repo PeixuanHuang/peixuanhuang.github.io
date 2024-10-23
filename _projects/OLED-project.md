@@ -1,20 +1,20 @@
 ---
-title: 新型OLED材料的高通量量子化学预测与筛选 Discovery of new organic light-emitting diode (OLED) materials with high-throughput screening
+title: Guangdong Construction Polytechnic: Construction Engineering Technology
 
 notitle: false
 
 description: |
 
 people:
-  - profx
-  - chenxi
+
 
 layout: project
-image: /img/projects/oled.png
+image: /Guangdong Construction Polytechnic.png
 last-updated: 2020-01-26
+link: https://www.gdcvi.edu.cn/xxgk/xyjj/index.htm
 ---
 
 ## 简介 Introduction
 
-与国内一线OLED供应商合作，借助高通量量子化学计算及数据驱动方法，我们开展了新型OLED材料的预测研究。现在该项目正在研发中。
+2019.09-2022.06 Major courses: Construction Engineering Measurement and Pricing, Construction Engineering Surveying, Building Mechanics, Building Drawing and Construction, Engineering Economics, etc.
 
