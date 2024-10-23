@@ -11,7 +11,7 @@ description: |
 layout: project
 image: /Zhanjiang.png
 last-updated: 2024-08-26
-link: https://www.zjkju.edu.cn
+
 ---
 
 ## 教育经历 Educational Experience
