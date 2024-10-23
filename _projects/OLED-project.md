@@ -9,7 +9,7 @@ description: |
 
 
 layout: project
-image: /Guangdong Construction Polytechnic.png
+image: /Zhanjiang.png
 last-updated: 2024-01-26
 link: https://www.zjkju.edu.cn
 ---
