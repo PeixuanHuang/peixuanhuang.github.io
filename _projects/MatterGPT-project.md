@@ -9,7 +9,7 @@ people:
 
 
 layout: project
-image: /img/projects/2d.png
+image: /img/projects/Guangdong Construction Polytechnic.png
 last-updated: 2020-01-22
 ---
 
