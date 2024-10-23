@@ -8,9 +8,9 @@ description: |
 
 
 layout: project
-image: /img/projects/MatterGPT.jpg
+image: /img/projects/Guangdong Construction Polytechnic.png
 last-updated: 2024-08-08
-link: https://arxiv.org/abs/2408.07608](https://www.gdcvi.edu.cn/xxgk/xyjj/index.htm
+link: https://www.gdcvi.edu.cn/xxgk/xyjj/index.htm
 ---
 
 ## 简介 Introduction
