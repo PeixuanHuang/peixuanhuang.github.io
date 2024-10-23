@@ -10,7 +10,7 @@ people:
 
 layout: project
 image: /img/projects/Guangdong Construction Polytechnic.png
-last-updated: 2020-01-22
+last-updated: 2024-09-22
 ---
 
 ## 简介 Introduction
