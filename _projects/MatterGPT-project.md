@@ -6,10 +6,7 @@ notitle: false
 description: |
 
 people:
-  - xiaoyang
-  - chenyan
-  - profx
-  - chenxi
+
 
 layout: project
 image: /img/projects/2d.png
