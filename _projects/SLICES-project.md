@@ -1,15 +1,11 @@
 ---
-title: SLICES:一种可逆晶体表示法及在人工智能驱动的晶体逆向设计中的应用 An invertible, invariant crystallographic representation for inverse design of solid-state materials using generative deep learning
+title: 中海监理有限公司 资料员兼监理员 2021.07-2022.01
 
 notitle: false
 
 description: |
 
-people:
-  - rong
-  - chenyan
-  - profx
-  - chenxi
+
 
 layout: project
 image: /img/projects/slices.png
